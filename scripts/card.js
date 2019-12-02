@@ -41,8 +41,8 @@ function myCard() {
         switch (character) {
             case 0:
                 image.src = "../images/0.jpg";
-                name = "Josh";
-                bio = "Josh is the Lead TA for Computing Professionals.";
+                name = "Josh Hutcheson";
+                bio = "Josh Hutcheson is the guest speaker.";
                 break;
             case 1:
                 image.src = "../images/1.jpg";
